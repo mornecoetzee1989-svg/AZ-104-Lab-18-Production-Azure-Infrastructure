@@ -22,7 +22,7 @@ The environment was designed to demonstrate key Azure administration concepts in
 
 # Architecture
 
-![Azure Production Architecture](./architecture/azure-production-architecture.png)
+![Azure Production Architecture](./architecture/azure-architecture-diagram.png.png)
 
 The environment uses a three-tier network design consisting of separate Web, Application, and Database subnets.
 
