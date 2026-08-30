@@ -1,4 +1,4 @@
-# AZ-104 Lab 18 – Production Azure Infrastructure
+# AZ-104 Lab – Production Azure Infrastructure
 
 ## Project Overview
 
